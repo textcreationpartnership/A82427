@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the abolishing the kingly office in England, Ireland, and the dominions thereunto belonging.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82427</idno>
+            <idno type="STC">Wing E1086A</idno>
+            <idno type="STC">ESTC R212317</idno>
+            <idno type="EEBO-CITATION">45097666</idno>
+            <idno type="OCLC">ocm 45097666</idno>
+            <idno type="VID">171268</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82427)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171268)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2570:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the abolishing the kingly office in England, Ireland, and the dominions thereunto belonging.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+                  <author>Scobell, Henry, d. 1660.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Hen. Scobell, cleric. Parliamenti.</note>
+                  <note>Publication information suggested by Wing.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1660.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb n="*⁎*" facs="tcp:171268:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>AN ACT For the Aboliſhing the KINGLY OFFICE IN England, Ireland, And the Dominions thereunto belonging.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas <hi>Charls Stuart</hi> late King of <hi>England, Ireland,</hi> and the Territo<g ref="char:EOLhyphen"/>ries and Dominions thereunto belonging, hath by Authority de<g ref="char:EOLhyphen"/>rived from Parliament, been, and is hereby declared to be juſt<g ref="char:EOLhyphen"/>ly condemned, adjudged to dye, and put to death for many Treaſons, Murthers, and o<g ref="char:EOLhyphen"/>ther hainous Offences committed by him, by which Iudgement he ſtood and is hereby De<g ref="char:EOLhyphen"/>clared to be attained of High Treaſon, whereby his Iſſue and Poſterity, and all o<g ref="char:EOLhyphen"/>thers pretending Title under him, are become uncapable of the ſaid Crowns, or of being King or Queen of the ſaid Kingdom or Domi<g ref="char:EOLhyphen"/>nions, or either or any of them: Be it there<g ref="char:EOLhyphen"/>fore Enacted and Ordained, and it is Enacted, Ordained and Declared by this preſent Parli<g ref="char:EOLhyphen"/>ament, and by Authority thereof, That all the People of <hi>England</hi> and <hi>Ireland,</hi> and the Do<g ref="char:EOLhyphen"/>minions and Territories thereunto belong<g ref="char:EOLhyphen"/>ing, of what degree or condition ſoever, are diſcharged of all Fealty, Homage and Allegi<g ref="char:EOLhyphen"/>ance which is or ſhall be pretended to be due unto any of the Iſſue and Poſterity of the ſaid late King, or any claiming under him; and
+<pb n="*⁎*" facs="tcp:171268:2"/>
+               <!-- PDF PAGE 11 -->that <hi>Charls Stuart</hi> eldeſt ſon, and <hi>James</hi> called <hi>Duke of York,</hi> ſecond ſon, and all other the Iſ<g ref="char:EOLhyphen"/>ſue and Poſterity of him the ſaid late King, and all and every perſon and perſons pretend<g ref="char:EOLhyphen"/>ing Title from, by or under him, are and be diſ<g ref="char:EOLhyphen"/>abled to hold or enjoy the ſaid Crown of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> and other the Dominions thereunto belonging, or any of them; or to have the Name, Title, Stile or Dignity of King or Queen of <hi>England</hi> and <hi>Ireland,</hi> Prince of <hi>Wales,</hi> or any of them; or to have and enjoy the power and Dominion of the ſaid Kingdoms and Do<g ref="char:EOLhyphen"/>minions, or any of them, or the Honors, Ma<g ref="char:EOLhyphen"/>nors, Lands, Tenements, Poſſeſſions, &amp; He<g ref="char:EOLhyphen"/>reditaments belonging or appertaining to the ſaid Crown of <hi>England</hi> and <hi>Ireland,</hi> and other the Dominions aforeſaid, or to any of them; or to the Principality of <hi>Wales,</hi> Dutchy of <hi>Lancaſter</hi> or <hi>Cornwal,</hi> or any or either of them, Any Law, Statute, Ordinance, Vſage or Cuſtom to the contrary hereof in any wiſe not<g ref="char:EOLhyphen"/>withſtanding: And whereas it is and hath been found by experience, that the Office of a King in this Nation and <hi>Ireland,</hi> and to have the power thereof in any ſingle perſon, is un<g ref="char:EOLhyphen"/>neceſſary, burthenſom and dangerous to the Liberty, Safety and publique Intereſt of the People, and that for the moſt part, uſe hath been made of the Regal power and preroga<g ref="char:EOLhyphen"/>tive, to oppreſs, impoveriſh and enſlave the ſubject; and that uſually and naturally any one perſon in ſuch power, makes it his Inte<g ref="char:EOLhyphen"/>reſt to incroach upon the juſt Freedom and Li<g ref="char:EOLhyphen"/>berty of the People, and to promote the ſet<g ref="char:EOLhyphen"/>ting up of their own will and power above the Laws, that ſo they might enſlave theſe Kingdoms to their own luſt: Be it therefore Enacted and Ordained by this preſent Parlia<g ref="char:EOLhyphen"/>ment,
+<pb n="*⁎*" facs="tcp:171268:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 11 -->and by authority of the ſame, That the Office of a King in this Nation, ſhall not henceforth reſide in, or be exerciſed by any one ſingle perſon; and that no one perſon whatſo<g ref="char:EOLhyphen"/>ever, ſhall or may have, or hold the Office, Stile, Dignity, Power or Authority of King of the ſaid Kingdoms and Dominions, or any of them, or of the Prince of <hi>Wales,</hi> Any Law, Statute, Vſage or Cuſtom to the contrary thereof in any wiſe notwithſtanding. And it is hereby Enacted, That if any perſon or per<g ref="char:EOLhyphen"/>ſons ſhall endeavor to attempt by force of Arms or otherwiſe, or be ayding, alsiſting, comforting or abetting unto any perſon or per<g ref="char:EOLhyphen"/>ſons that ſhall by any ways or means what<g ref="char:EOLhyphen"/>ſoever, endeovor or attempt the reviving or ſetting up again of any pretended Right of the ſaid <hi>Charls,</hi> eldeſt Son to the ſaid late King, <hi>James</hi> called Duke of <hi>York,</hi> or of any other the Iſſue and Poſterity of the ſaid late King, or of any perſon or perſons claiming under him or them, to the ſaid Regal Office, Stile, Dignity or Authority, or to be Prince of <hi>Wales;</hi> or the promoting of any one perſon whatſoever, to the Name, Stile, Dignity, Power, Prerogative or Authority, of King of <hi>England</hi> and <hi>Ireland,</hi> and Dominions afore<g ref="char:EOLhyphen"/>ſaid, or any of them; That then every ſuch Offence ſhall be deemed and adjudged High Treaſon, and the Offenders therein, their Councellors, Procurers, Ayders and Abet<g ref="char:EOLhyphen"/>tors, being convicted of the ſaid Offence, or any of them, ſhall be deemed and adjudged Traytors againſt the Parliament and Peo<g ref="char:EOLhyphen"/>ple of <hi>England,</hi> and ſhall ſuffer, loſe and for<g ref="char:EOLhyphen"/>feit, and have ſuch like and the ſame Pains, Forfeitures, Iudgements and Execution, as is uſed in caſe of High Treaſon: And where<g ref="char:EOLhyphen"/>as
+<pb n="*⁎*" facs="tcp:171268:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 12 -->by the Abolition of the Kingly Office pro<g ref="char:EOLhyphen"/>vided for in this Act, a moſt happy way <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made for this Nation (if God ſee it good) t<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> return to its juſt and ancient Right, of bein<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> governed by its own Repreſentatives or Na<g ref="char:EOLhyphen"/>tional Meetings in Councel, from time to time choſen and entruſted for that purpoſe by the People, It is therefore Reſolved and De<g ref="char:EOLhyphen"/>clared by the Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, That they will put a period to the ſit<g ref="char:EOLhyphen"/>ting of this preſent Parliament, and diſſolv<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſame ſo ſoon as may poſſibly ſtand with th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſafety of the people that hath betruſted them and with what is abſolutely neceſſary for th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſerving and upholding the Governmen<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now ſetled in the way of a Commonwealth and that they will carefully provide for th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> certain chuſing, meeting and ſitting of th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> next and future Repreſentatives, with ſuch <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther Circumſtances of Freedom in choyce an equality in diſtribution of Members to be ele<g ref="char:EOLhyphen"/>cted thereunto, as ſhall moſt conduce to y<hi rend="sup">e</hi> laſ<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing freedom &amp; good of this Commonwealth And it is hereby further Enacted &amp; Declared notwithſtanding any thing contained in thi<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Act, no perſon or perſons of what condition e<g ref="char:EOLhyphen"/>quality ſoever, within the Commonwealth o<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>England</hi> and <hi>Ireland,</hi> Dominion of <hi>Wales,</hi> th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Iſlands of <hi>Guernſey</hi> and <hi>Jerſey,</hi> and Town o<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Berwick</hi> upon <hi>Tweed,</hi> ſhall be diſcharged from the obedience and ſubjection which he and the owe to the Government of this Nation, as i<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is now Declared, but all and every of them ſhall in all things render and perform th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſame, as of right is due unto the ſupreme Au<g ref="char:EOLhyphen"/>thority hereby declared to reſide in this and th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſucceſſive Repreſentatives of the People o<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Nation, and in them onely.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
